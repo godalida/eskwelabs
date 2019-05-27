@@ -2,7 +2,7 @@
 
 ### Week 3 (05/27): Question and Data Set(s)
 
-**Here's the desctiption of my the Capstone I'm interested with:**
+**Descriptions:**
 
 * I'm planning to predict whether a borrower(client) will be default on the 30 days past due & whether a new applicant should be approved or not. This can be credit scoring as well.
 * I have loan applications datasets that contains demographic information of the borrowers.
